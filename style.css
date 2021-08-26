@@ -1,11 +1,19 @@
 .joke {
-  width: 170px;
-  height: 150px;
-  margin: 10px;
+  height: 155px;
+  margin: 20px;
+  width: 270px;
+  background-size: cover;
+  background-position: center;
 }
 
-.joke:hover {
-  cursor: pointer;
-  transform: scale(1.1);
-  transition: 0.5s;
+.one {
+  background-image: url(/newPortfolio/img/coach-app.PNG);
+}
+
+.two {
+  background-image: url(/newPortfolio/img/animated\ scroll\ image.PNG);
+}
+
+.three {
+  background-image: url(/newPortfolio/img/joke\ bot\ image.PNG);
 }
