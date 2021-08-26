@@ -1,9 +1,13 @@
 .joke {
   height: 155px;
-  margin: 20px;
+  display: block;
   width: 270px;
   background-size: cover;
   background-position: center;
+}
+
+.joker {
+  margin: 30px;
 }
 
 .one {
