@@ -1,4 +1,4 @@
-.joke {
+#joke {
   height: 155px;
   display: block;
   width: 270px;
@@ -8,16 +8,4 @@
 
 .joker {
   margin: 30px;
-}
-
-.one {
-  background-image: url(/newPortfolio/img/coach-app.PNG);
-}
-
-.two {
-  background-image: url(/newPortfolio/img/animated\ scroll\ image.PNG);
-}
-
-.three {
-  background-image: url(/newPortfolio/img/joke\ bot\ image.PNG);
 }
