@@ -9,3 +9,8 @@
 .joker {
   margin: 30px;
 }
+
+#joke:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
